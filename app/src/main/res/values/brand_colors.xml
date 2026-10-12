@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_navy">#0B1938</color>
+    <color name="brand_navy_light">#142D5F</color>
+    <color name="brand_cyan">#00D4FF</color>
+    <color name="splash_background">#0B1938</color>
+</resources>
